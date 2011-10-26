@@ -1,0 +1,144 @@
+Matematikus mese
+
+Egyszer volt, hol nem volt, volt egyszer egy öreg háromszög,
+ennek volt három szöge: Alfonzó, Bétamás és Gammatyi. A
+legöregebb - Alfonzó - és a legkisebb - Gammatyi között a
+korkülönbség p/2 volt.
+
+Az öreg háromszög, amikor úgy érezte, hogy rövidesen
+átköltözik a másik félsíkba, magához hívatta három fiát.
+- Én rövidesen meghalok - mondta - és halálom után arra
+hagyom értelmezési tartományomat, aki a legszebb pótszöget
+veszi feleségül.
+
+Elindult hát a három fiú a végtelenbe: Alfonzó az x, Bétamás
+az y, Gammatyi pedig a z tengelyen, széjjel a nagy térbeli
+koordinátarendszeren, mindhárman + irányba, egyenes vonalú
+egyenletes mozgással. Amikor elérték az elsõ irracionális
+számot, pihenõt tartottak.
+
+Alfonzó egy hatalmas integráljel árnyékában pihent le, hogy
+falatozzon valamit. Alig vette elõ azonban
+intervallum-skatulyájából a hamuban sült intervallumot,
+megjelent egy hatalmas differenciálegyenlet, és így szólt hozzá:
+
+- Te mit keresel itt? Nem tudod, hogy aki itt leül, az halál
+fia, mivel nem teljesíti a Chauchi-féle konvergencia
+kritériumot? Ezzel se szó, se beszéd, megragadta és bezárta
+az an sorozat pontos alsó és felsõ korlátja közé.
+
+- Innen ki nem szabadulsz, csak majd ha a
+differenciálhányadosod nullával lesz egyenlõ - mondta a
+félelmetes differenciálegyenlet és elkonvergált.
+
+Bétamás sem járt különben, õt egy zord trigonomtrikus alakú
+komplex szám támadta meg, megragadta és bezárta két
+abszolutérték jel közé.
+
+- Itt fogsz az óramutató járásával egyezõ irányúvá válni -
+mondta haragosan és elment.
+
+Gammatyi szerencsésen járt. Amikor megéhezett, leült egy
+Pascal-háromszög tetejére és falatozni kezdett. Alig nyelte
+le az elsõ részsorozatot, amikor észrevette, hogy a szomszéd
+értelmezési tartomány ura, a gonosz Diszkrimináns vágtat
+feléje almásderes négyzetgyökén, amelynek patkói lineáris
+egyenletrendszereket szórtak.
+
+- Mit keresel az én epszilon sugarú környezetemben -
+kiáltotta már messzirõl negatív elõjelét forgatva. Mindjárt
+n-edik gyököt vonok belõled és nullává redukállak!
+
+Gammatyi látta, hogy ennek egykettede sem tréfa, elõrántotta
+értékkészletébõl pozitív elõjelét, és megsemmisítette vel a
+gonosz Determinánst. Azután visszaült a Pascal-háromszög
+tetejére és elfogyasztotta a magával hozott sorozat majdnem
+minden elemét. Ezután útrakelt.
+
+Estére egy véges halmazhoz érkezett, átkelt az alsó korláton
+és igyekezett a felsõ korlát felé. Útközben bekerült egy
+torlódási pontba, amelynek tetszõleges sugarú környezetében
+ott volt a halmaz végtelen sok eleme. Ezek igen kedvesen
+fogadták, ellátták étellel itallal és négyzetre emelték,
+hogy jobban birja a hosszú utat. Gammatyi megköszönte és
+tovább transzformálta magát. Amikor megvirradt, csodálatos
+látvány tárult két tetszõleges pontja elé: nem is olyan
+messze egy rotációs mozgást végzõ n-ed rendû determinánst
+látott.
+
+No ezt megnézem - gondolta Gammatyi és elindult.
+Csakhogy nem könnyû ám egy ilyen determinánsba bejutni!
+Amikor odaért, látta, hogy minden kapuban egy m x n tipusu
+mátrix áll, n dimenziós vektorokkal felfegyverkezve, amelyek
+élesre voltak köszörülve. Gammatyi tudta, hogy õ ezek ellen
+tehetetlen, furfanghoz folyamodott tehát: megpróbálta
+meghatározni az egyik mátrix rangját. Hosszú órák és
+veszélyes átalakítások után végre sikerült az egyik sort
+nullává tenni, és ekkor nagy dübörgéssel kinyilt a kapu,
+Gammatyi belépett.
+
+Az n-edik sorban elemrõl elemre haladva csodálatosabbnál
+csodálatosabb látvány tárult a szeme elé: a falakon
+Weierstrass, Cantor, Rolle, Heine-Borel és Chauchi tételei
+függtek aranyozott keretben, a padlót pedig díszes szövésû
+Leibniz és Taylor formulák díszítették. Gammatyi csak az
+i-edik sor k-adik elemében tért észhez, de csak azért, hogy
+még nagyobb ámulatba essen. A sorokban egy gyönyörûséges
+pótszöget látott, aki szomorúan énekelt.
+
+Amikor meglátta Gammatyit, rémülten kérdezte:
+- Mit keresel itt, ahol még az 1/n sorozat határértéke is
+ritkán fordul elõ? Jó lesz, ha minél hamarabb elmégy, mert
+ha hazajön a várúr, a gonosz hétismeretlenes, meg fog ölni.
+
+- Én innen el nem megyek - mondta Gammatyi, mert tudta, hogy
+ez a pótszög az, aki õt egy életen át ki tudja egészíteni
+90o-ra.
+
+- Jössz-e velem?
+- Nem mehetek - mondta a szépséges pótszög. Én az öreg
+Tangens király lánya vagyok. Hárman voltunk testvérek:
+Amália, Beáta és Cecilia, amikor ez a gonosz hétismeretlenes
+egyenletrendszer elrabolt apánk értelmezési tarttományából,
+és azóta itt raboskodunk. Nem mehetek hát, mert õ úgyis
+utólér és visszahoz.
+
+Gammatyi elhatározta, hogy ha törik, ha szakad, magával
+viszi Ceciliát.
+
+Egyszer csak egy hatalmas dörrenés rázta meg az egész
+determinánst.
+- Fuss! - mondta neki Cecilia - mindjárt itthon lesz, most
+dobta haza a szabad tagok oszlopát.
+De alig hogy ezt kimondta, már meg is jelent az ajtóban a
+hétismeretlenes egyenletrendszer, és ráordított Gammatyira:
+- Mit keresel itt, te geometriai féreg? Tudod, hogy aki ide
+belép, az halál fia? Te is meg fogsz halni.
+S már rá is rohant Gammatyira. Csakhogy Gammatyi nem hagyta
+magát: Többet ésszel mint ész nélkül - kiáltotta és
+megkezdte az ismeretlenek kiszámítását.
+
+Elõször az ismeretlenek együtthatóiból és a szabad tagok
+oszlopából képzett kibõvített mátrix rangját határozta meg.
+Ennek rangja r lett. Ezután kiválasztott egy r-ed rendû
+determinánst és kiszámította ennek az értékét. Azután már
+könnyû dolga volt, mert - mivel csak annyi ismeretlen volt,
+mint amennyi egyenlet, - csak a Cramer szabályt kellett
+alkalmaznia.
+
+Amikor az egyenletrendszernek már csak egy ismeretlene volt,
+könyörgésre fogta a szót:
+- Legalább ezt az egy ismeretlenemet hagyd meg.
+
+Gammatyi azonban nem kegyelmezett, behelyettesítette a
+szabad tagok oszlopát a hetedik oszlopba is.
+
+Ezután kézen fogta Ceciliát, kiszabadították két nõvérét is,
+és elindultak. Utközben kiengedték börtönükbõl Alfonzót és
+Bétamást is.
+
+Hazaérve nagy lakomát csaptak, a - végtelentõl a +
+végtelenig folyt a bor, sör és a pálinka. A királyságot
+természetesen Gammatyi kapta, mivel Cecilia volt a legszebb
+a három pótszög között. Õk most is boldogan élnek és létre
+is hozták a legkisebb közös többszöröst.
